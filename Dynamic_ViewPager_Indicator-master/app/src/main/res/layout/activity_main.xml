@@ -37,7 +37,6 @@
                             android:textColor="@android:color/white"
                             android:textSize="18sp"
                             android:textStyle="bold" />
-
                         <ImageButton
                             android:layout_width="64dp"
                             android:layout_height="64dp"
